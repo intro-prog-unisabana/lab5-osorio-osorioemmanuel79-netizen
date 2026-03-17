@@ -11,7 +11,6 @@ def find_max(a, b):
 x = int(input("Enter a number:\n"))
 y = int(input("Enter a number:\n"))
 z = int(input("Enter a number:\n"))
-#FREEZE CODE END
 
 print("Maximum value:", maximum)
 
