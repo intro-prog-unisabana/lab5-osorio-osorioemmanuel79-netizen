@@ -8,7 +8,6 @@ def get_daily_steps():
     step_list = [int(s) for s in step_list]
     return step_list
 
-# Function to calculate total steps
 def total_steps(nums):
     """Return total steps."""
     total = sum(nums)
